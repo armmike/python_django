@@ -1,0 +1,13 @@
+""" 
+Trabajar con tipos básicos de Python:
+números, boolean, None
+
+Propiedades de un módulo: __name__ y __doc__
+
+"""
+
+#int + float = float
+resul = 34 + 6.88
+print(resul, type(resul))
+
+#False == 0, '' [] None
